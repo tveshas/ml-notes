@@ -1,6 +1,6 @@
-# NumPy Notes 📊
+# NumPy Quick-Revision 
 
-Welcome to my NumPy notes repository! This is a collection of my personal notes and examples while learning NumPy, the fundamental package for scientific computing in Python.
+This is a collection of my personal notes and examples while learning NumPy, the fundamental package for scientific computing in Python.
 
 ## What is NumPy? 🐍
 
@@ -60,11 +60,8 @@ Here are some additional resources for learning NumPy:
 - [Official NumPy Documentation](https://numpy.org/doc/stable/)
 - [NumPy Quickstart Tutorial](https://numpy.org/doc/stable/user/quickstart.html)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html)
+- [FreeCodeCamp's Video Tutorial](https://www.youtube.com/watch?v=QUT1VHiLmmI&pp=ygUYbnVtcHkgbGVhcm4gZnJlZWNvZGVjYW1w)
 
 ## License 📄
 
-Feel free to use these notes for your personal learning!
-
----
-
-Happy coding! 🚀
+Feel free to use these notes for your personal learning
